@@ -2,4 +2,4 @@ title: Laurence Willemet
 description: Research projects, scientific activities and french recipes!
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+remote theme: pages-themes/cayman@v0.2.0
