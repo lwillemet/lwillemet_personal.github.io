@@ -6,13 +6,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# About me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![laurence-headshot](https://https://github.com/lwillemet/lwillemet.github.io/tree/master/_images/laurence-headshot.jpg)
 
-# Header 1
+The robot that beat Garry Kasparov actually needed a human to move the chess pieces. If robots exceeds adult performance in intelligence tests, they are still at their infancy when it comes to perception or mobility. One of the reason is that the human sense of touch is far from being understood. Therefore, I decided to devote my PhD at Aix-Marseille University in this field. My research was aiming at a better understanding of the role of the sense of touch in manipulation. It received the recognition of the Eurohaptic Society PhD Award and is currently under review to be published by Springer.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+After these 3 years of research on human and psychophysical studies, I started a postdoc at Delft University of Technology in the Netherlands, within the Cognitive Robotic team. My goal was to apply the result of my PhD to equip industrial robots with a gentle touch, useful to pick fruits.
+
+I have recently been granted the Marie Curie postdoctoral fellowship to conduct my project #ReTouch for the next 3 years! Hoping that at the end of the project, a bilateral tactile telemanipulation system can bridge the gap for touch over a distance!
 
 ## Header 2
 
