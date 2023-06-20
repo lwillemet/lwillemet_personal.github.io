@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # About me
 
-![laurence-headshot](https://https://github.com/lwillemet/lwillemet.github.io/tree/master/_images/laurence-headshot.jpg)
+![laurence-headshot](https://github.com/lwillemet/lwillemet.github.io/tree/master/_images/laurence-headshot.jpg)
 
 The robot that beat Garry Kasparov actually needed a human to move the chess pieces. If robots exceeds adult performance in intelligence tests, they are still at their infancy when it comes to perception or mobility. One of the reason is that the human sense of touch is far from being understood. Therefore, I decided to devote my PhD at Aix-Marseille University in this field. My research was aiming at a better understanding of the role of the sense of touch in manipulation. It received the recognition of the Eurohaptic Society PhD Award and is currently under review to be published by Springer.
 
