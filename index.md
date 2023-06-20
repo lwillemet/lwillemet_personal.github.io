@@ -16,7 +16,9 @@ After these 3 years of research on human and psychophysical studies, I started a
 
 I have recently been granted the Marie Curie postdoctoral fellowship to conduct my project #ReTouch for the next 3 years! Hoping that at the end of the project, a bilateral tactile telemanipulation system can bridge the gap for touch over a distance!
 
-During my free time, I like to cook. See <a href="http://u.osmfr.org/m/520432/" onclick="LoadRunning();return false">Cooking map</a> to see some approved receipes on a map!
+During my free time, I like cooking. See <a href="http://u.osmfr.org/m/520432/" onclick="LoadRunning();return false">Cooking map</a> to see some approved receipes on a map!
+
+Big sister of 4 little cute creatures, I have many activities to share to keep them busy (visit [this page](./scientific-activities.md).)
 
 ## Header 2
 
